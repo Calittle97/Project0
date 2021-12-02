@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\scala\bin\Project0\src\main\scala\CardData.scala:73:21: not found: value insertCollection[0m
+[0m[[0m[31merror[0m] [0m[0m                    insertCollection(coll)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
